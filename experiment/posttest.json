@@ -1,39 +1,45 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "1.Which of the following is false in generalization?",
+        "answers": {
+          "a": "a.If a parent class is an interface, it is represented by a dashed line with a white arrow",
+          "b": "b.If a parent class is an abstract class, it is represented by a solid line with a white arrow",
+          "c": "c.A parent is a class is represented by a solid line with a black arrow",
+          "d": "d.The hierarchies are represented by an arrow pointing downwards towards a child"
+        },
+        "explanations": {
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "2.Identify the valid is-a relationship from the list below: 1)Country 2)Germany 3)Europe 4)Asia 5)Continent 6)Asian country 7)India 8)City 9)European country 10)China 11)Tamilnadu",
+        "answers": {
+          "a": "a.Country – Asian Country",
+          "b": "b.Country – European Country",
+          "c": "c.Continent – Country",
+          "d": "d.Asian Country – India",
+          "e": "e.India- city"
+        },
+        "explanations": {
+        },
+        "correctAnswer": "Asia – Asian Country",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "3.Which of the following best describes the UML diagram generation process for the 'Release a Vehicle' use case?",
+        "answers": {
+          "a": "a.It involves identifying the actors and their roles in the use case.",
+          "b": "b.It involves creating a graphical representation of the interactions between the actors and the system, in a chronological order.",
+          "c": "c.It involves documenting the requirements of the use case.",
+          "d": "d.It involves creating a visual representation of the system's architecture and components."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }

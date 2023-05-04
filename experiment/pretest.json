@@ -1,39 +1,44 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "1.Which of the following are the heuristics for the class diagram?",
+        "answers": {
+          "a": "a.Place a name, role names, or multiplicities on a generalization connector.",
+          "b": "b.Use the interface ball and socket symbols to abstract interface details.",
+          "c": "c.Don’t italicize interface or operation name.",
+          "d": "d.An instance variable can be given as a part of diagram."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a, b, c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "2.Suppose you are working on a software project for a car rental company. You need to create a UML class diagram to represent the classes and relationships in the system. The system should be able to handle the rental of different types of vehicles, including cars, trucks, and vans. Each vehicle has a make, model, year, and license plate number, and can be rented by a customer for a specified period of time. Based on this scenario, which of the following class diagram elements should be included?",
+        "answers": {
+          "a": "a.A class for each type of vehicle, with attributes for make, model, year, and license plate number.",
+          "b": "b.A class for each type of vehicle, with attributes for make, model, year, license plate number, and rental period.",
+          "c": "c.A class for customers, with attributes for name, address, and rental history.",
+          "d": "d.A class for rental agreements, with attributes for rental period and total cost."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "3.In a class diagram, which of the following symbols represents an association between two classes?",
+        "answers": {
+          "a": "a.An arrowhead pointing to one of the classes.",
+          "b": "b.A diamond shape connected to both classes.",
+          "c": "c.A rectangle containing the name of the class.",
+          "d": "d.A circle connected to both classes."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
