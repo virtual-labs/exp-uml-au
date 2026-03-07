@@ -1,16 +1,17 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Object Oriented Programming
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> 
+<b> Experiment|     <b> Experiment 3: Designing a class diagram using UML
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+To design a class diagram for the given scenario using UML from the
+Object domain model and the time sequence diagram.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amrita Vishwa Vidyapeetham 
 :--|:--|
 <b> Institute | <b>  
 <b> Email id|     <b>  
