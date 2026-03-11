@@ -787,7 +787,7 @@
             },
             methods: {
               reload() {
-                window.location.reload();
+                this.$router.go();
               },
               validate() {
                 this.validated = !0;
