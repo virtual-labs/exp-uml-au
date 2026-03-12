@@ -1242,7 +1242,7 @@
       };
     })(),
     (function () {
-      n.p = "/exp-uml-au/simulation/";
+      n.p = "";
     })(),
     (function () {
       if ("undefined" !== typeof document) {
