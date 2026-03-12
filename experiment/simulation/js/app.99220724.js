@@ -976,7 +976,7 @@
           ["__scopeId", "data-v-f56adb90"],
         ]);
         var se = oe,
-          le = "media/1a.8fe7c0e1.mp4";
+          le =  "media/1a.8fe7c0e1.mp4";
         const de = (0, r.uE)(
             '<header style="padding:20px;display:flex;flex-direction:row;align-items:center;justify-content:space-between;"><div><h1>Experiment 3</h1><p>The following illustrations demonstrate what we will be doing in this experiment</p></div></header><main class="flex-row"><div class="codebox"><video height="400" controls autoplay="autoplay"><source src="' +
               le +
@@ -1242,7 +1242,7 @@
       };
     })(),
     (function () {
-      n.p = "/exp-uml-au/experiment/simulation/";
+      n.p = "/exp-uml-au/simulation/";
     })(),
     (function () {
       if ("undefined" !== typeof document) {
