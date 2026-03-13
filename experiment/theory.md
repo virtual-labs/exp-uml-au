@@ -21,7 +21,7 @@
     * operations / methods (optional) describe the class behavior and appear in the third compartment. 
         * You can specify an operation by stating its signature: listing the name, type, and default value of all parameters, and, in the case of visibility name (parameters) : return_type<br>visibility:	+	public<br>#	protected<br>-	private<br>~	package (default)<br>underline static methods<br>parameter types listed as (name: type)<br>omit return_type on constructors and when return type is void<br>method example: + distance(p1: Point, p2: Point): double 
         * You may omit trivial (get/set) methods, but don't omit any methods from an interface!
-        * It should not include inherited methods.<br> ![fig1](fig_1.jpg)
+        * It should not include inherited methods.<br> ![fig1](images/fig_1.jpg)
 
 * Relationships
 
@@ -37,7 +37,7 @@
                 * class: solid line, black arrow
                 * abstract class:solid line, white arrow
                 * interface: dashed line, white arrow
-            * we often don't draw trivial / obvious generalization relationships, such as drawing the Object class as a parent ![fig2](fig_2.jpg)
+            * we often don't draw trivial / obvious generalization relationships, such as drawing the Object class as a parent ![fig2](images/fig_2.jpg)
     * Associational relationships - a usage relationship
         * Represent relationship between instances of classes
         * Association has two ends
@@ -47,18 +47,18 @@
                 * 2..4	⇒ between 2 and 4, inclusive
                 * 3..*	⇒ 3 or more
             2. name 		(what relationship the objects have)
-            3. navigability	(direction) <br>![fig3](/experiment/images/fig_3.jpg)<br> ![fig4](fig_4.jpg)
+            3. navigability	(direction) <br>![fig3](images/fig_3.jpg)<br> ![fig4](images/fig_4.jpg)
     
     * aggregation: “has-a"
-        * symbolized by a clear white diamond<br> ![fig4](fig_5.jpg)
+        * symbolized by a clear white diamond<br> ![fig4](images/fig_5.jpg)
     
     * composition:”part-off” / "is entirely made of"
         * stronger version of aggregation
         * the parts live and die with the whole
-        * symbolized by a black diamond <br> ![fig6](fig_6.jpg)
+        * symbolized by a black diamond <br> ![fig6](images/fig_6.jpg)
     * dependency: "uses temporarily"
         * symbolized by dotted line
-        * often is an implementation detail, not an intrinsic part of that object's state <br> ![fig7](fig_7.jpg)
+        * often is an implementation detail, not an intrinsic part of that object's state <br> ![fig7](images/fig_7.jpg)
     * Aggregation implies a relationship where the child can exist independently of the parent.
     * Composition implies a relationship where the child cannot exist independent of the parent. 
     * Composition is a strong Association whereas Aggregation is a weak Association
