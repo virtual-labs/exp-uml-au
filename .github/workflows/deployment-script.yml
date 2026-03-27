@@ -29,8 +29,6 @@ jobs:
         git reset
         git add build/* -f
         git mv build/* ./ -f
-        touch .nojekyll
-        git add .nojekyll
         git commit -m "https://virtual-labs.github.io/${{ github.repository }} click on the link to test your code."
     - uses: ad-m/github-push-action@master
       with:
