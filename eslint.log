@@ -1,0 +1,100 @@
+
+/home/runner/work/exp-uml-au/exp-uml-au/experiment/simulation/js/AnimFour-996d5f35.js
+  1:1353  warning  'g' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-uml-au/exp-uml-au/experiment/simulation/js/AnimThree-9c6986fd.js
+  1:1266  warning  'v' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-uml-au/exp-uml-au/experiment/simulation/js/AnimTwo-d076a85c.js
+  1:1430  warning  'b' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-uml-au/exp-uml-au/experiment/simulation/js/CongratulationsPage-6723eba0.js
+  1:420  warning  't' is defined but never used  no-unused-vars
+  1:422  warning  'f' is defined but never used  no-unused-vars
+  1:424  warning  'x' is defined but never used  no-unused-vars
+  1:426  warning  'v' is defined but never used  no-unused-vars
+  1:428  warning  'h' is defined but never used  no-unused-vars
+  1:430  warning  'g' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-uml-au/exp-uml-au/experiment/simulation/js/ScreenThree-34e6464e.js
+  1:7244   warning  'n' is defined but never used  no-unused-vars
+  1:7358   warning  'n' is defined but never used  no-unused-vars
+  1:8648   warning  'n' is defined but never used  no-unused-vars
+  1:9039   warning  'n' is defined but never used  no-unused-vars
+  1:9434   warning  'n' is defined but never used  no-unused-vars
+  1:9819   warning  'n' is defined but never used  no-unused-vars
+  1:10217  warning  'n' is defined but never used  no-unused-vars
+  1:10613  warning  'n' is defined but never used  no-unused-vars
+  1:10796  warning  'n' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-uml-au/exp-uml-au/experiment/simulation/js/ScreenTwo-90d08f6a.js
+  1:2051  warning  'e' is already defined         no-redeclare
+  1:2341  warning  'e' is already defined         no-redeclare
+  1:2720  warning  'e' is already defined         no-redeclare
+  1:4845  warning  'o' is defined but never used  no-unused-vars
+  1:4932  warning  'o' is defined but never used  no-unused-vars
+  1:7632  warning  'o' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-uml-au/exp-uml-au/experiment/simulation/js/index-1ebdacad.js
+  1:572    warning  Redundant double negation         no-extra-boolean-cast
+  5:1707   warning  Unnecessary escape character: \/  no-useless-escape
+  5:2938   warning  'f' is defined but never used     no-unused-vars
+  5:10592  warning  Empty block statement             no-empty
+  5:14675  warning  'R' is defined but never used     no-unused-vars
+  5:20203  warning  'k' is defined but never used     no-unused-vars
+  5:22760  warning  'o' is already defined            no-redeclare
+  5:23132  warning  'o' is already defined            no-redeclare
+  5:23505  warning  'o' is already defined            no-redeclare
+  5:24764  warning  'o' is already defined            no-redeclare
+  5:25014  warning  'o' is already defined            no-redeclare
+  5:25294  warning  'o' is already defined            no-redeclare
+  5:25570  warning  'o' is already defined            no-redeclare
+  5:25849  warning  'o' is already defined            no-redeclare
+  5:28592  warning  'i' is defined but never used     no-unused-vars
+  5:28679  warning  'i' is defined but never used     no-unused-vars
+  5:33376  warning  'i' is defined but never used     no-unused-vars
+  5:34552  warning  'i' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-uml-au/exp-uml-au/experiment/simulation/js/index-f80d04b4.js
+  1:934  warning  'i' is defined but never used  no-unused-vars
+  1:936  warning  't' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-uml-au/exp-uml-au/experiment/simulation/js/plugin-vue_export-helper-80f064ad.js
+  1:2458   warning  'global' is not defined                  no-undef
+  1:4416   warning  't' is defined but never used            no-unused-vars
+  1:4525   warning  'r' is defined but never used            no-unused-vars
+  1:4527   warning  'l' is defined but never used            no-unused-vars
+  1:5054   warning  't' is defined but never used            no-unused-vars
+  1:5163   warning  't' is defined but never used            no-unused-vars
+  1:6847   warning  'e' is defined but never used            no-unused-vars
+  1:6849   warning  't' is defined but never used            no-unused-vars
+  1:6877   warning  'e' is defined but never used            no-unused-vars
+  1:6879   warning  't' is defined but never used            no-unused-vars
+  1:8477   warning  't' is defined but never used            no-unused-vars
+  1:10501  warning  't' is defined but never used            no-unused-vars
+  1:12255  warning  's' is assigned a value but never used   no-unused-vars
+  1:12975  warning  'e' is defined but never used            no-unused-vars
+  1:13287  warning  'e' is defined but never used            no-unused-vars
+  1:13319  warning  't' is assigned a value but never used   no-unused-vars
+  1:14561  warning  'n' is defined but never used            no-unused-vars
+  1:16739  warning  'l' is assigned a value but never used   no-unused-vars
+  1:16751  warning  'i' is assigned a value but never used   no-unused-vars
+  1:19689  warning  'n' is assigned a value but never used   no-unused-vars
+  1:22168  warning  'L' is assigned a value but never used   no-unused-vars
+  1:22197  warning  'R' is assigned a value but never used   no-unused-vars
+  1:22354  warning  'Wt' is assigned a value but never used  no-unused-vars
+  1:22751  warning  Setter cannot return a value             no-setter-return
+  1:23179  warning  Setter cannot return a value             no-setter-return
+  1:23345  warning  'n' is assigned a value but never used   no-unused-vars
+  1:23569  warning  Setter cannot return a value             no-setter-return
+  1:27630  warning  'n' is defined but never used            no-unused-vars
+  1:44527  warning  'n' is defined but never used            no-unused-vars
+
+/home/runner/work/exp-uml-au/exp-uml-au/experiment/simulation/js/runtime-dom.esm-bundler-78ceb15e.js
+  1:2089  warning  'r' is defined but never used                                    no-unused-vars
+  1:2696  warning  Empty block statement                                            no-empty
+  1:3075  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+
+✖ 76 problems (0 errors, 76 warnings)
+  0 errors and 1 warning potentially fixable with the `--fix` option.
+
